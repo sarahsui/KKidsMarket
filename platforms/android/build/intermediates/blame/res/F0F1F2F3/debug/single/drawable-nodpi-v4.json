@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/menu/view_feedback_items_activity_menu.xml",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1003-dev-release/res/menu/view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/menu/view_feedback_items_activity_menu.xml",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1003-dev-release/res/menu/view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/menu/edit_details.xml",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1003-dev-release/res/menu/edit_details.xml"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/menu/send_feedback_activity_menu.xml",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1003-dev-release/res/menu/send_feedback_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/menu/edit_details.xml",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1003-dev-release/res/menu/edit_details.xml"
+    },
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/menu/send_feedback_activity_menu.xml",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1003-dev-release/res/menu/send_feedback_activity_menu.xml"
+    }
+]

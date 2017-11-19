@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/layout-v21/notification_action.xml",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/layout-v21/notification_action.xml",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

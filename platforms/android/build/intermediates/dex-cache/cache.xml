@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-transition-26.0.0-alpha1_563259dd05823e35e14b285dd3745dc7350e793a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-cardview-v7-26.0.0-alpha1_d67756e3681f074ebfa9c3045a39ed6dc070fb8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/gson-2.8.2_3f84cbf68f7bd57fcc65e0707a669756f7a0597f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/firebase-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9516c20ad330d844b3275d9c3acb0b798b6d8ae">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-firebase-release_3368f500edd526a7595a07f9221ce6dd930caff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-design-26.0.0-alpha1_b1c454796403a9bf8c8a3ee2a2f70cc699018b24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-appcompat-v7-26.0.0-alpha1_924757225367286a9ab3ec853a2fcff307c3e9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-widgets-release_1cae2a9711534c2ceecf948791d31c09c9eec2c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-auth-11.2.2_ff92e6771be3360c7323ac8af516c0896b7dda50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.android.gms-play-services-tasks-11.2.2_a0040915c886ffcc31819ce97cf99a2610934d0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-core-utils-26.0.0-alpha1_a710263cfb6ba416cc69d616718ad07f7673762e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Gauges-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="763441cc6a990002aed18218e3bb277961816ea4">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-Gauges-2017.1.1003-dev-release_f5403fe5cbcff03acef95cfcd5c4beaf42b735b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-iid-11.2.2_c3515bed088b984c4c7dccc250da18a2fc5ab9fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_8105ff41f81df32235bf7ad41bac633e300d84e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Common-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="29bb374c9fd569ea5fad2e6729c255c3717382c9">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-Common-2017.1.1003-dev-release_268f0f74dddf07d98b5cfd33db7a305aacdd7785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3352405f829252e602a47d252f11edd7c89d86ff">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-database-11.2.2_c0970902b0bb86a425e2cd4ddf03bedab29354a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a690a9ad791e20a8e6bfa1f39c4df912499d2472">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-Data-2017.1.1003-dev-release_8b0cae550fad3f93c7a753f48a145bdbde08df18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-media-compat-26.0.0-alpha1_361125b2070a623e74e26c2fd380c6d316c9610b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/support-annotations-26.0.0-alpha1_780ee450b7fd1608df30dd643e3666a3cba0ee11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a9ab7bfebf4a8d5c7fb1ac4e5dcf4bc4d6e3a0e">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-storage-11.2.2_606e3aed4b265f5b01bfa098eab14b2d13b223cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.android.gms-play-services-base-11.2.2_0c2bea79732b6ddba66a341c790003e27990e156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-analytics-impl-11.2.2_f529b695d413897228d0b258501b62870d819f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-core-ui-26.0.0-alpha1_2fdee5b8833b85847f3d4ca78a82e819cb729067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-common-11.2.2_9681d2a1bc12cf8d44f7e0ff32b9033312cbd3f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/KKidsMarket/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/KKidsMarket-runtime-unspecified_cf43c38cd80839eac61e76652d7b5fd1086bf58a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-customtabs-26.0.0-alpha1_60079062bdc0c2a6fd9ae3505160684bcf730b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-database-connection-11.2.2_2d5752f97bc60a3a5a8937bce2fd65e7ddc99f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Input-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7279ec5fcf43856d4563c37f6b911e6289500106">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-Input-2017.1.1003-dev-release_7925ab387ab69456d2aad8b19d58fc9af8a5c494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="99917b3cc83bb26c61fe0fa886ef55ee8005e9bf">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-Feedback-2017.1.1003-dev-release_99a8112e605838c080fd41c4245d1547a9996443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/KKidsMarket/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/binding-generator_1c2d9ac3b4dd61102f1440dff16f939cd67c6cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-storage-common-11.2.2_43d39fc1a84cde08de221594d085b0b816ee2d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-compat-26.0.0-alpha1_13d1f12645027b0d537660c0a92e10ac4838f712.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_bed91b16340f12f3b44f48e9487cd826c841aacd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/List-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ccf00b7aa2472bfe1e92931c49e46d9103742149">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-List-2017.1.1003-dev-release_c3cae592dfb72bdd2939221cbbe0ab0f3c80dfd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-v4-26.0.0-alpha1_0731edb468f6434362b20045a170a0949a575e71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.android.gms-play-services-basement-11.2.2_a02b77d1d2c4d787af8701e3624d62cc68d5180b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-analytics-11.2.2_a0f533cb1556cefa467ecf330616cb20429ddd49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-fragment-26.0.0-alpha1_e7aa6785734b832dd177f89bcb02ac378c4d19fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dea5032193895bd143e997736b2842b1dffd1dcf">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-Primitives-2017.1.1003-dev-release_d6c6b7a17eed2e2f83de08c94f37439a908d5046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_488cacb23f6bdb27b295dca9d55bf1e24850ac4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="669d0795783c3d477c08aa18fb0457829a1292ac">
+        <dex dex="/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-Chart-2017.1.1003-dev-release_223d1ba17364a14fc3dd872af1f1b599206fc046.jar" />
+    </item>
+
+</items>

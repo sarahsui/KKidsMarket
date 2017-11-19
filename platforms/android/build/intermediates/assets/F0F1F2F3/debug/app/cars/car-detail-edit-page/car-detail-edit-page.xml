@@ -1,0 +1,59 @@
+<Page class="page"
+    navigatingTo="onNavigatingTo"
+    xmlns="http://schemas.nativescript.org/tns.xsd">
+
+    <ActionBar class="action-bar">
+        <!--HACK - we should remove the navigation button-->
+        <NavigationButton visibility="collapsed" />
+        <Label class="action-bar-title" text="Edit Item Details" horizontalAlignment="center" />
+        <ActionItem tap="onCancelButtonTap" ios.position="left" android.position="left">
+            <Label text="Cancel" verticalAlignment="center" class="action-item" />
+        </ActionItem>
+        <ActionItem ios.position="right" android.position="right">
+            <Label text="Done" class="action-item" verticalAlignment="center" tap="onDoneButtonTap" 
+                isEnabled="{{ item.isModelValid }}"
+                isUserInteractionEnabled="{{ item.isModelValid }}" />
+        </ActionItem>
+    </ActionBar>
+
+    <GridLayout class="page-content">
+        <ScrollView>
+            <StackLayout class="item-list">
+                <Label text="ITEM NAME" class="item-list-odd" />
+                <TextField text="{{ item.name }}" hint="Item Name field is required" 
+                    class="{{ item.name, item.name ? 'item-list-even' : 'item-list-even invalid-text' }}" />
+
+                <Label text="PRICE" class="item-list-odd" />
+                <TextField text="{{ item.name }}" hint="Item Price field is required" 
+                    class="{{ item.price, item.price ? 'item-list-even' : 'item-list-even invalid-text' }}" />
+
+
+                <Label text="ITEM DESCRIPTION" class="item-list-odd" />
+                <TextField text="{{ item.description }}" hint="Item Description field is required" 
+                    class="{{ item.description, item.description ? 'item-list-even' : 'item-list-even invalid-text' }}" />
+
+                <GridLayout rows="*, 20, *" columns="*, auto" class="item-list-odd" >
+                    <Label text="ADD OR REMOVE IMAGE" row="1" colSpan="1" />
+                </GridLayout>
+                
+                <StackLayout class="item-list-even">
+                    <GridLayout height="80" width="80" class="thumb" horizontalAlignment="left" 
+                        backgroundImage="{{ car.imageUrl }}" tap="onImageAddRemoveTap">
+                        <GridLayout class="thumb-add" 
+                            visibility="{{ car.imageUrl, car.imageUrl | visibilityValueConverter }}">
+                            <Label text="&#xf030;" class="fa" horizontalAlignment="center" verticalAlignment="center" />
+                        </GridLayout>
+                        <GridLayout class="thumb-remove" 
+                            visibility="{{ car.imageUrl, !car.imageUrl | visibilityValueConverter }}">
+                            <Label text="&#xf014;" class="fa" horizontalAlignment="center" verticalAlignment="center" />
+                        </GridLayout>
+                    </GridLayout>
+                    <Label visibility="{{ car.imageUrl, car.imageUrl | visibilityValueConverter }}" 
+                        class="invalid-image" text="Image field is required" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+
+        <ActivityIndicator busy="{{ isUpdating }}" />
+    </GridLayout>
+</Page>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi/icon.png",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi/background.png",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi/background.png",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/SARAHSUI/Downloads/KKidsMarket/platforms/android/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/xianglin/Native/KKidsMarket/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi/icon.png",
+        "source": "/Users/xianglin/Native/KKidsMarket/platforms/android/src/main/res/drawable-xxhdpi/icon.png"
+    }
+]
